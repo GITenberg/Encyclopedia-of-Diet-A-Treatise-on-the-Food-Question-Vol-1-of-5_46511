@@ -1,15 +1,16 @@
 _repo: Encyclopedia-of-Diet-A-Treatise-on-the-Food-Question-Vol-1-of-5_46511
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46511/46511-h/images/coverpage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46511-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Christian, Eugene
     gutenberg_agent_id: '43822'
     url: http://www.gutenberg.org/2009/agents/43822
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46511#Encyclopedia-of-Diet-A-Treatise-on-the-Food-Question-Vol-1-of-5
 gutenberg_issued: '2014-08-05'
 gutenberg_type: Text
 identifiers:
